@@ -1,0 +1,83 @@
+body {
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+.button {
+  font-family: "roboto", sans-serif, Arial;
+  font-size: 18px;
+  font-weight: bold;
+  background: #5b6977;
+  width: 160px;
+  padding: 20px;
+  text-align: center;
+  text-transform: uppercase;
+  text-decoration: none;
+  color: #fff;
+  border-radius: 5px;
+  cursor: pointer;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  -webkit-transition-duration: 0.3s;
+  transition-duration: 0.3s;
+  -webkit-transform-property: box-shadow, transform;
+  transition-property: box-shadow, transform;
+}
+.button:hover,
+.button:focus,
+.button:active {
+  box-shadow: 0, 0, 20px rgba(0, 0, 0, 0.5);
+  -webkit-transform: scale(1.1);
+}
+.popup-window {
+  display: none;
+  position: fixed;
+  z-index: 1;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  overflow-y: scroll;
+  background-color: rgba(5, 43, 48, 0.936);
+
+  border-image-repeat: no-repeat;
+}
+.popupcontent {
+  background-color: rgb(152, 94, 94);
+  margin: 20%;
+  padding: 10px;
+  border: 3px solid #523333;
+  border-radius: 10px;
+  width: 100%;
+  max-width: 600px;
+  margin-right: 70px;
+}
+.closebutton {
+  color: #100f0f;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.closebutton:hover,
+.closebutton:focus {
+  color: rgb(228, 149, 13);
+  text-decoration: none;
+  cursor: pointer;
+}
+.h1 {
+  color: rgb(23, 228, 228);
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.toy {
+  color: #050406;
+  font-weight: 500;
+}
+.fun {
+  color: rgb(21, 0, 255);
+}
