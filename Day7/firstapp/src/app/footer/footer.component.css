@@ -1,0 +1,23 @@
+.one1 {
+  background-color: #2dcc70;
+  height: 15rem;
+}
+.box img {
+  width: 30px;
+  height: 30px;
+}
+.box {
+  display: flex;
+}
+.txt p {
+  font-size: 1.2rem;
+  margin-top: 20px;
+  font-style: bold;
+  color: #fff;
+}
+.icon-image {
+  margin-top: 20px;
+}
+.one1 {
+  display: flex;
+}
