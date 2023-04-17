@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+  color: #fff;
+}
+.img {
+  display: flex;
+  justify-content: space-between;
+  margin-left: 40px;
+  align-items: center;
+  padding: 1rem 2rem;
+}
+.icon-image {
+  width: 25px;
+}
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: white;
+  padding: 0rem 10rem;
+}
+.Navi {
+  top: 2;
+  right: 0;
+  text-align: right;
+  padding: 2px;
+}
+
+.Navi a {
+  padding: 15px;
+  color: black;
+  text-decoration: none;
+}
+a:hover {
+  border-radius: 2px;
+  background-color: darkgrey;
+}
