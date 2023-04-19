@@ -1,0 +1,32 @@
+.menu-bar {
+  background-color: lightslategray !important;
+  color: whitesmoke !important;
+}
+
+.title {
+  font-size: 30px;
+  font-weight: bolder;
+}
+a {
+  color: whitesmoke;
+  size: 20px;
+
+  text-decoration: none;
+}
+ul {
+  margin-left: 50px;
+}
+li {
+  float: left;
+  list-style-type: none;
+  /* width: 120px; */
+  margin-left: 10px;
+  margin-right: 20px;
+}
+a:hover {
+  color: lightblue;
+  cursor: pointer;
+}
+a:active {
+  color: rgb(200, 231, 241);
+}
