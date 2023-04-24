@@ -5,10 +5,10 @@ import { Observable } from 'rxjs';
 @Injectable({
   providedIn: 'root',
 })
-export class ProductsService {
+export class ProductService {
   constructor(private http: HttpClient) {}
 
-  getProdut(): Observable<any> {
-    return this.http.get('http://localhost:4500/products');
+  getProducts(): Observable<any> {
+    return this.http.get('http://localhost:4500/product');
   }
 }

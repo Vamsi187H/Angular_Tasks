@@ -3,28 +3,32 @@ import { BrowserModule } from '@angular/platform-browser';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
+import { CardComponent } from './card/card.component';
+import { CardBoxComponent } from './card/card-box/card-box.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
-import { ProductPipe } from './pipes/product.pipe';
-import { ProductComponent } from './product/product.component';
-import { ProductBoxComponent } from './product/product-box/product-box.component';
+import { FiltertypePipe } from './pipes/filtertype.pipe';
+import { FilterpricePipe } from './pipes/filterprice.pipe';
+
 import { MaterialModule } from './materials/materials.module';
-import { HttpClient, HttpClientModule } from '@angular/common/http';
+import { HttpClientModule } from '@angular/common/http';
 import { FormsModule } from '@angular/forms';
 
 @NgModule({
   declarations: [
     AppComponent,
-    ProductPipe,
-    ProductComponent,
-    ProductBoxComponent,
+    CardComponent,
+    CardBoxComponent,
+    FiltertypePipe,
+    FilterpricePipe,
   ],
   imports: [
     BrowserModule,
     AppRoutingModule,
     BrowserAnimationsModule,
+    FormsModule,
+
     MaterialModule,
     HttpClientModule,
-    FormsModule,
   ],
   providers: [],
   bootstrap: [AppComponent],
