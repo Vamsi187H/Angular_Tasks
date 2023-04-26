@@ -1,0 +1,40 @@
+/* .navbar {
+  font-size: 35px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: rgb(185, 142, 62);
+  padding: 0.5rem;
+  font-weight: bolder;
+  padding: 2rem 0;
+}
+
+#comp-button {
+  font-size: 25px;
+  text-decoration: none;
+  color: black;
+} */
+
+.navba {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #ba7f1f;
+  padding: 20px;
+  font-weight: bolder;
+  font-size: 35px;
+}
+.nv > * {
+  font-family: Arial, Helvetica, sans-serif;
+  /* font-size: 35px; */
+}
+.crd {
+  padding: 0rem 1rem;
+}
+#comp {
+  font-size: 25px;
+  text-decoration: none;
+  color: #19140f;
+}

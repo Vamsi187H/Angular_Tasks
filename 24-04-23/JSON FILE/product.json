@@ -1,0 +1,92 @@
+{
+  "product": [
+    {
+      "id": 21,
+      "name": "Electronics",
+      "price": 4500,
+      "image": "chida.jpg",
+      "type": "Electronics",
+      "Description": "This is a perfect collaboration. Looking forward to work again."
+    },
+    {
+      "id": 8927,
+      "name": "FaceCream",
+      "price": 3000,
+      "image": "an.jpg",
+      "type": "Cosmetics",
+      "Description": "This was an excellent project experience. Budget was too good."
+    },
+    {
+      "id": 7321,
+      "name": "FoodItems",
+      "price": 3200,
+      "image": "rice.jpg",
+      "type": "Groceries",
+      "Description": "Superb to Work with you. Looking forward to collaborate more."
+    },
+    {
+      "id": 1530,
+      "name": "Java 2nd Edition",
+      "price": 1299,
+      "image": "java.jpg",
+      "type": "Books",
+      "message": "Content Marketing was so so good."
+    },
+    {
+      "id": 6894,
+      "name": "Groceries",
+      "price": 999,
+      "image": "rake.jpg",
+      "type": "Groceries",
+      "Description": "Best in this area of work"
+    },
+    {
+      "id": 8934,
+      "name": "Realme",
+      "price": 5200,
+      "image": "vam.jpg",
+      "type": "Electronics",
+      "Description": "Digital Marketing is challenging but it was done so clean here."
+    },
+    {
+      "id": 815,
+      "name": "Python 1st Edition",
+      "price": 999,
+      "image": "c.jpg",
+      "type": "Books",
+      "Description": "This is the place for Digital Marketing"
+    },
+    {
+      "id": 815,
+      "name": "Angular",
+      "price": 1299,
+      "image": "htm.jpg",
+      "type": "Books",
+      "Description": "This is the place for Digital Marketing"
+    },
+    {
+      "id": 7442,
+      "name": "Body Cream",
+      "price": 2600,
+      "type": "Cosmetics",
+      "image": "ch.jpg",
+      "Description": "My Ecommerce business picked up because of these guyz"
+    },
+    {
+      "id": 2446,
+      "name": "Vegatables",
+      "price": 1500,
+      "image": "sad.jpg",
+      "type": "Groceries",
+      "Description": "These people are specialist in Ecommerce space"
+    },
+    {
+      "id": 8615,
+      "name": "Games",
+      "price": 4000,
+      "image": "vignes.jpg",
+      "type": "Electronics",
+      "Description": "Market analysis is best done here"
+    }
+  ]
+}
