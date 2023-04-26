@@ -2,7 +2,7 @@
   "product": [
     {
       "id": 21,
-      "name": "Chidanand",
+      "name": "Electronics",
       "price": 4500,
       "image": "chida.jpg",
       "type": "Electronics",
@@ -10,7 +10,7 @@
     },
     {
       "id": 8927,
-      "name": "Anjali",
+      "name": "FaceCream",
       "price": 3000,
       "image": "an.jpg",
       "type": "Cosmetics",
@@ -18,7 +18,7 @@
     },
     {
       "id": 7321,
-      "name": "Mohan",
+      "name": "FoodItems",
       "price": 3200,
       "image": "rice.jpg",
       "type": "Groceries",
@@ -26,7 +26,7 @@
     },
     {
       "id": 1530,
-      "name": "visanthan",
+      "name": "Java 2nd Edition",
       "price": 1299,
       "image": "java.jpg",
       "type": "Books",
@@ -34,7 +34,7 @@
     },
     {
       "id": 6894,
-      "name": "Rakesh",
+      "name": "Groceries",
       "price": 999,
       "image": "rake.jpg",
       "type": "Groceries",
@@ -42,7 +42,7 @@
     },
     {
       "id": 8934,
-      "name": "Vamsi",
+      "name": "Realme",
       "price": 5200,
       "image": "vam.jpg",
       "type": "Electronics",
@@ -50,7 +50,7 @@
     },
     {
       "id": 815,
-      "name": "Murari",
+      "name": "Python 1st Edition",
       "price": 999,
       "image": "c.jpg",
       "type": "Books",
@@ -58,7 +58,7 @@
     },
     {
       "id": 815,
-      "name": "Bhargav",
+      "name": "Angular",
       "price": 1299,
       "image": "htm.jpg",
       "type": "Books",
@@ -66,7 +66,7 @@
     },
     {
       "id": 7442,
-      "name": "Charu",
+      "name": "Body Cream",
       "price": 2600,
       "type": "Cosmetics",
       "image": "ch.jpg",
@@ -74,7 +74,7 @@
     },
     {
       "id": 2446,
-      "name": "Sandeep",
+      "name": "Vegatables",
       "price": 1500,
       "image": "sad.jpg",
       "type": "Groceries",
@@ -82,7 +82,7 @@
     },
     {
       "id": 8615,
-      "name": "Vignesh",
+      "name": "Games",
       "price": 4000,
       "image": "vignes.jpg",
       "type": "Electronics",
